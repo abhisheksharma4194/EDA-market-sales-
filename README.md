@@ -29,3 +29,7 @@ Outlet_Type =Whether the outlet is just a grocery store or some sort of supermar
 
 Item_Outlet_Sales =Sales of the product in the particulat store. This is the outcome variable to be predicted.
 
+The file EDA.ipynb contains the pyhton code for Exploratory data analysis of the data set using pyplot and seaborn
+
+
+The file TRAIN_MODEL.ipynb contains the code for training the model and finding the results 
